@@ -3,6 +3,15 @@ nav{
   background-color: antiquewhite;
 }
 
+nav ul{
+  display: table;
+  width: 100%;
+}
+nav li {
+  display: table-cell;
+  
+}
+
 body {
   background-color:Aqua;
 }
